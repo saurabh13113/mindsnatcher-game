@@ -1,5 +1,5 @@
 # mindsnatcher-game 🎮
-# University assignment to build a game over three months using Java and JavaFX following the principle of Agile Software development in a team of 4.
+University assignment to build a game over three months using Java and JavaFX following the principle of Agile Software development in a team of 4.
 
 As a software developer, I created "Mind-Snatcher," an interactive adventure game developed in Java using JavaFX. This game combines a richly integrated story with a Player vs. Player (PVP) fighting system, delivering an immersive and competitive experience for players. In "Mind-Snatcher," players navigate through a compelling narrative while engaging in strategic battles against each other, blending storytelling and gameplay seamlessly.
 
